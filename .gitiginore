@@ -1,0 +1,23 @@
+# Arquivos temporários do sistema
+*.log
+*.tmp
+
+# Arquivos de banco de dados locais
+*.sql
+
+# Arquivos de configuração específicos do ambiente
+.env
+*.db
+
+# Arquivos de backup
+*.bak
+
+# Diretórios de IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+
+# Arquivos gerados
+*.sql
